@@ -32,16 +32,7 @@ const Categories = [
     name: "Veg",
     icon: <FaLeaf className="w-[60px] h-[60px] text-blue-500" />,
   },
-  {
-    id: 6,
-    name: "Pizza",
-    icon: <GiFullPizza className="w-[60px] h-[60px] text-blue-500" />,
-  },
-  {
-    id: 7,
-    name: "Burger",
-    icon: <GiHamburger className="w-[60px] h-[60px] text-blue-500" />,
-  },
+
 ];
 
 export default Categories;
