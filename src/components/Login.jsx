@@ -58,7 +58,7 @@ const Login = ({ onLogin }) => {
             transition={{ delay: 0.3, duration: 0.7 }}
             className="text-5xl font-extrabold text-center bg-clip-text text-transparent bg-gradient-to-r from-orange-500 to-pink-500 mb-6"
           >
-            Ait Juice Vala
+            Ait Fruit Shop
           </motion.h1>
           <motion.p
             initial={{ opacity: 0 }}
